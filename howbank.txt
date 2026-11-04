@@ -1,0 +1,12 @@
+1) open remxix IDE
+2) create a new solidity File
+3) name it BankAccount.sol
+4) copy the smart contract code into the file
+5) open the solidity compiler
+6) select a compiler version such as 0.8.20
+7) compile the contract
+8) open deploy and runn transactions 
+9) connect the wallet to the selected test network
+10) select bank account
+11) click deploy
+12) confirm the transaction in the wallet
